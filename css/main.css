@@ -17,14 +17,14 @@ body {
 h1 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: .27em 0;
+  margin: .2em 0;
 }
 
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: .2em;
-  margin-bottom: .2em;
+  margin-top: 2em;
+  margin-bottom: 3em;
 }
 
 ol {
