@@ -1,0 +1,63 @@
+html {
+  box-sizing: border-box;
+  font-family: georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: ..75em;
+  margin: 0;
+  background-color: #fff;
+}
+
+h1 h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: .27em 0;
+}
+
+ol {
+  display: grid;
+  list-style: none;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  border-radius: 8px;
+  padding-left: 0;
+  margin: .3em;
+  padding-top: .6em;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  border: 2px #623b0c;
+  border-radius: 8px;
+  background: #ede3bd;
+  padding: 1em;
+}
+
+a {
+  border-radius: 8px;
+  background: #623b0c;
+  padding: .6em;
+  color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  grid-column: auto;
+}
+
+p {
+  padding: .4rem;
+}
