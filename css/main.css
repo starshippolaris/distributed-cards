@@ -1,3 +1,4 @@
+
 html {
   box-sizing: border-box;
   font-family: Georgia, serif;
@@ -23,7 +24,7 @@ h1 {
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: .2em;
+  margin-top: .2em;
 }
 
 ol {
@@ -67,5 +68,6 @@ ul {
 }
 
 p {
-  padding: .4rem;
+  padding-top: .4rem;
+  padding-bottom: .4rem;
 }
