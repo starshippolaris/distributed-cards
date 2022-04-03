@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: Georgia, serif;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -14,10 +14,16 @@ body {
   background-color: #f2f5f0;
 }
 
-h1 h2 {
+h1 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
   margin: .27em 0;
+}
+
+h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: 1.5rem;
 }
 
 ol {
