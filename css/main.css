@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  padding: ..75em;
+  padding: .75em;
   margin: 0;
   background-color: #fff;
 }
@@ -52,6 +52,7 @@ a {
 
 img {
   width: 100%;
+  display: block;
 }
 
 ul {
